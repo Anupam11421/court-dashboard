@@ -1,4 +1,4 @@
-# 🏛️ Court Case Dashboard (Internship Task)
+# 🏛️ Court Case Dashboard
 
 This project is a small web app built using **Python (Flask + Selenium)** as part of an internship assignment. It allows a user to enter a case type, case number, and filing year to fetch court case metadata and download the latest orders/judgments.
 
