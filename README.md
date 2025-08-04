@@ -46,22 +46,29 @@ Due to **CAPTCHA and anti-bot protection** on Indian court websites (e.g., [http
 
 > *(You can add screenshots in the `/screenshots` folder and link below)*
 
-```markdown
+
 ![Home Page](screenshots/index.png)
 ![Result Page](screenshots/result.png)
 
-🚀 How to Run the Project
+##🚀 How to Run the Project
 1. Clone the repository:
-     git clone https://github.com/Anupam11421/court-dashboard.git
+     ```bash
+    git clone https://github.com/Anupam11421/court-dashboard.git
      cd court-dashboard
+     ```
 2.  Install the dependencies:
+    ```bash
      pip install -r requirements.txt
+    ```
 3.  Run the Flask server:
-     python app.py
+     ```bash
+    python app.py
+     ```
 4.  Open browser and go to:
+     ```bash
      http://127.0.0.1:5000/
-     
-
+     ```
+```bash
 🗂 Folder Structure
 
 court-dashboard/
@@ -75,7 +82,7 @@ court-dashboard/
 │   └── (optional CSS or images)
 ├── requirements.txt
 ├── README.md
-
+```
 📎 Sample Test Input (Optional)
 If CAPTCHA is disabled or manually entered, try testing with:
 
@@ -84,7 +91,7 @@ Case Type: CS
 Case Number: 13
 
 Filing Year: 2022
-(Or use any valid values from Indian eCourts portal)
+(Or use any valid values from the Indian eCourts portal)
 
 
 📃 Note to Evaluators
@@ -92,8 +99,9 @@ This project is a fully functional prototype matching the task description.
 CAPTCHA-based limitations are acknowledged and handled legally.
 Code is modular, clean, and uses professional practices.
 
-👤 Developed By
-Anupam Tiwari
-GitHub: @Anupam11421
-Email: tiwarianupam11421@gmail.com
+## 👤 Developed By
+
+**Anupam Tiwari**  
+🔗 GitHub: [Anupam11421](https://github.com/Anupam11421)  
+📧 Email: [tiwarianupam11421@gmail.com](mailto:tiwarianupam11421@gmail.com)
 
