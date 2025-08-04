@@ -63,7 +63,7 @@ Due to **CAPTCHA and anti-bot protection** on Indian court websites (e.g., [http
      
 
 🗂 Folder Structure
-```
+
 court-dashboard/
 ├── app.py
 ├── scraper.py
@@ -75,7 +75,7 @@ court-dashboard/
 │   └── (optional CSS or images)
 ├── requirements.txt
 ├── README.md
-```
+
 📎 Sample Test Input (Optional)
 If CAPTCHA is disabled or manually entered, try testing with:
 
