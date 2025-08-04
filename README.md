@@ -47,8 +47,9 @@ Due to **CAPTCHA and anti-bot protection** on Indian court websites (e.g., [http
 > *(You can add screenshots in the `/screenshots` folder and link below)*
 
 
-![Home Page](screenshots/index.png)
-![Result Page](screenshots/result.png)
+![Home Page](screenshots/1.png)
+![Result Page](screenshots/2.png)
+
 
 ##🚀 How to Run the Project
 1. Clone the repository:
